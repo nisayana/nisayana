@@ -1,13 +1,10 @@
-### Hi there 👋
+### Hi, I'm Sayana!👋
 
-<!--
-**nisayana/nisayana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Chat app.
+- 🔭 I’m currently working on Volunteer oportunities app.
 - 🌱 I’m currently learning Algorithms and DS.
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sayana-nimaeva/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: 
+  - I like to play the piano.
+  - I speak 3,5 languages (English, Russian, Buryat, Spanish - still learning)
+
